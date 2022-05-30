@@ -1,13 +1,13 @@
 # Boilerplate Technical Test Frontend
 
-Ce repo sert à vous faire gagner du temps pour réaliser un test technique de l'équipe front de chez UNiFAi.
+This repo is used to save you time to perform a technical test by the UNiFAi front-end team.
 
-Sont installées les dépendances suivantes :
-- Vue
-- Buefy
-- JSON-Server
+Installed dependencies :
+- [Vue 2](https://v2.vuejs.org/)
+- [Buefy](https://buefy.org/documentation)
+- [JSON-Server](https://github.com/typicode/json-server)
 
-Vous êtes libre d'ajouter toute librairie utile à sa réalisation.
+You can add any other dependencies.
 
 ## Start JSON Server
 ```
